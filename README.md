@@ -6,7 +6,7 @@ This project aims to predict the placement package of students using a dataset w
 ## 1. Dataset Overview
 
 **Number of Rows:** 220,000  
-**Number of Columns:** 18
+**Number of Columns:** 19
 
 ### Columns:
 
